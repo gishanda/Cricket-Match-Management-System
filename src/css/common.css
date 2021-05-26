@@ -1,0 +1,41 @@
+/* CSS Document */
+.loginBody
+	{
+		background-image:url(../img/loginBackground.jpg);
+		background-size:cover;
+		}
+.loginHeader
+	{
+		height:50px;
+		background-image:url(../img/loginHeader.jpg);
+		border-radius:25px 25px 0px 0px;
+		box-shadow: 10px 0px 5px #888888;
+		}
+.loginForm
+	{
+		margin-top:16%;
+		margin-left:30%;
+		width: 450px;
+		border: 1px  solid #ccc;
+		box-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2);
+		border-radius:25px;
+		box-shadow: 10px 10px 5px #888888;
+		}
+.editPlayer
+	{
+		margin-left:9%;
+		float:none;
+		width: 150px; /* 252 - 40 */
+		height:150px;
+		margin-top: 0px;
+		min-height: 100px;
+		}
+.editPlayerTable
+	{
+		border:5px;
+		width:400px;
+		margin-left:20%;
+		padding:10px;
+		border-color:#000;
+		/*background-color:#000;*/
+		}
