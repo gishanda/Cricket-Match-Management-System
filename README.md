@@ -4,7 +4,7 @@
 
 The **Cricket Match Management System** is a software application designed to manage and organize cricket matches efficiently. It helps in handling match scheduling, team management, player statistics, scoring, and result tracking in a streamlined way.
 
-This system can be used by tournament organizers, clubs, or cricket enthusiasts to digitize and simplify match operations.
+This system can be used by tournament organizers, clubs, or cricket enthusiasts to digitize and simplify match operations. 
 
 ---
 
